@@ -33,7 +33,7 @@
 
 <h2 align="center">⚜️ Contact Me ⚜️</h2>
 <p align="center">
-  <a href="mailto: fdembele@u.rochester.edu?subject=Find constact Via GitHub; Want to connect&body=Hello Fatima, I hope this email finds you well."">
+  <a href="mailto: fdembele@u.rochester.edu?subject=Find contact Via GitHub; Want to connect&body=Hello Fatima, I hope this email finds you well."">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/fatima-dembele/">
