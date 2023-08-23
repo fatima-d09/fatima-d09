@@ -10,8 +10,8 @@
   <strong>Currently...</strong>
   <ul>
     <li>Rising junior pursuing my Bachelors in Computer Science & English @ University of Rochester.</li>
-    <li>QA Engineering Internship with NBCUniversal, and miscellaneous projects.</li>
-    <li>Looking for any oppurtunities regarding front end / back end / web development / Testing[QA] Engineering</li>
+    <li>👀  for Internships for the Fall, and miscellaneous projects.</li>
+    <li>👀  for any oppurtunities regarding front end / back end / web development / Testing[QA] Engineering</li>
   </ul> 
   </p>
 
