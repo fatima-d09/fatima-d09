@@ -36,11 +36,11 @@
   <a href="mailto: fdembele@u.rochester.edu?subject=Find contact Via GitHub; Want to connect&body=Hello Fatima, I hope this email finds you well."">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
-  <div></div>
+  <span></span>
   <a href="https://www.linkedin.com/in/fatima-dembele/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
-  <div></div>
+  <span></span>
    <a href="https://fatima-dembele.w3spaces.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=25>  
   </a> 
