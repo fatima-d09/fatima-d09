@@ -10,8 +10,8 @@
   <strong>Currently...</strong>
   <ul>
     <li>Junior pursuing my Bachelors in Computer Science & English @ University of Rochester</li>
-    <li>👀  for Internships for the Fall, and miscellaneous projects</li>
-    <li>👀  for any oppurtunities regarding front end / back end / web development / Testing[QA] Engineering</li>
+    <li>👀  for Internships for the Summer, and Full time Technical Product/Program Management positions for '25 </li>
+    <li>👀  for any oppurtunities regarding Technical Product/Program Management </li>
   </ul> 
   </p>
 
