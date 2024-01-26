@@ -43,5 +43,9 @@
   <span> </span>
    <a href="https://fatima-dembele.w3spaces.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=25>  
-  </a> 
+  </a>
+   <span> </span>
+   <a href="https://fatima-d09.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25>  
+  </a>
 </p>
