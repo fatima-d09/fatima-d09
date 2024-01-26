@@ -40,6 +40,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
    <a href="https://fatima-dembele.w3spaces.com">
-    <img src="https://camo.githubusercontent.com/e1ea0fb92cdb93f625cb474023e500ccf47f5a4b8243f4662268356c3fa64c53/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c6526636f6c6f723d343238354634266c6f676f3d476f6f676c65266c6f676f436f6c6f723d464646464646266c6162656c3d" height=25>  
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=25>  
   </a> 
 </p>
