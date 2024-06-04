@@ -9,7 +9,7 @@
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Junior pursuing my Bachelors in Computer Science & English</li>
+    <li>Junior pursuing my Bachelors in Computer Science</li>
     <li>👀  for Internships for the Summer, and Full time Technical Product/Program Management positions for '25 </li>
     <li>👀  for any oppurtunities regarding Technical Product/Program Management </li>
   </ul> 
