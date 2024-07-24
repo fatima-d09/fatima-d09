@@ -9,9 +9,9 @@
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Junior pursuing my Bachelors in Computer Science</li>
-    <li>👀  for Internships for the Summer, and Full time Technical Product/Program Management positions for '25 </li>
-    <li>👀  for any oppurtunities regarding Technical Product/Program Management </li>
+    <li>Senior pursuing my Bachelors in Computer Science</li>
+    <li>👀  for Internships for the Fall, and Full time Technical Product/Program Management, Solutions Engineering positions for '25 </li>
+    <li>👀  💰 🏃‍♀️  </li>
   </ul> 
   </p>
 
