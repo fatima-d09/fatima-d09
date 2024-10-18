@@ -10,7 +10,7 @@
   <strong>Currently...</strong>
   <ul>
     <li>Senior pursuing my Bachelors in Computer Science</li>
-    <li>👀  for Internships for the Fall, and Full time Technical Product/Program Management, Solutions Engineering positions for '25 </li>
+    <li>👀  for Internships for the Fall, and Full time Tech Jobs for '25 </li>
     <li>👀  💰 🏃‍♀️  </li>
   </ul> 
   </p>
@@ -28,12 +28,13 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 <h2 align="center">⚜️ Contact Me ⚜️</h2>
 <p align="center">
-  <a href="mailto: fdembele@u.rochester.edu?subject=Find contact Via GitHub; Want to connect&body=Hello Fatima, I hope this email finds you well."">
+  <a href="mailto: fdembele@u.rochester.edu?subject=Find your contact Via GitHub; Want to connect&body=Hello Fatima, I hope this email finds you well."">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
   <span></span>
