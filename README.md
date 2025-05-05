@@ -9,8 +9,8 @@
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Senior pursuing my Bachelors in Computer Science</li>
-    <li>👀  for Internships for the Fall, and Full time Tech Jobs for '25 </li>
+    <li>Bachelors in Computer Science from University of Rochester</li>
+    <li>👀 Full time Tech Jobs for '25 </li>
     <li>👀  💰 🏃‍♀️  </li>
   </ul> 
   </p>
