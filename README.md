@@ -9,9 +9,8 @@
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Bachelors in Computer Science from University of Rochester</li>
+    <li>Graduate of Computer Science from University of Rochester</li>
     <li>👀 Full time Tech Jobs for '25 </li>
-    <li>👀  💰 🏃‍♀️  </li>
   </ul> 
   </p>
 
