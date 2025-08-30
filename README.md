@@ -10,7 +10,7 @@
   <strong>Currently...</strong>
   <ul>
     <li>Graduate of Computer Science from University of Rochester</li>
-    <li>👀 Full time Tech Jobs for '25 </li>
+    <li>Currently working Full Time </li>
   </ul> 
   </p>
 
