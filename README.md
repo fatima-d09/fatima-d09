@@ -9,7 +9,7 @@
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Graduate of Computer Science from University of Rochester Class of 2025</li>
+    <li>Graduate of Computer Science from University of Rochester (Class of 2025)</li>
     <li>Currently working Full Time </li>
   </ul> 
   </p>
