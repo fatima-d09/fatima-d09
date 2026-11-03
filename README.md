@@ -3,14 +3,14 @@
   <img src="https://i.pinimg.com/originals/65/a4/62/65a462b484208b966ba965f88df94fc7.gif" alt="Typing on Keyboard Gif" style="width: 350px;">⠀⠀
 </p>
 
-<h2 align="center"> Hi, I'm Fatima Dembele! 👋 </h2>
+<h2 align="center"> 👋, I'm Fatima Dembele! </h2>
 
 
 <p align="left">
   <strong>Currently...</strong>
   <ul>
-    <li>Graduate of Computer Science from University of Rochester (Class of 2025)</li>
-    <li>Currently working Full Time as Software Engineer</li>
+    <li>Graduate of Computer Science from the University of Rochester (Class of 2025)</li>
+    <li>Currently working full Time as Software Engineer</li>
   </ul> 
   </p>
 
