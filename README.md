@@ -10,7 +10,7 @@
   <strong>Currently...</strong>
   <ul>
     <li>Graduate of Computer Science from the University of Rochester (Class of 2025)</li>
-    <li>Currently working full Time as Software Engineer</li>
+    <li>Currently working as a Software Engineer</li>
   </ul> 
   </p>
 
